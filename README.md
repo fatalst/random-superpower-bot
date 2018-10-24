@@ -1,6 +1,6 @@
 # Random Superpower Bot
 ### ~~@superpower_bot~~ currently not functional
-A twitter bot that spits out a random superpower from the Powerlisting Wiki.
+A twitter bot that spits out a random superpower from the Powerlisting Wiki using [Node.js](https://nodejs.org/en/), [Request-Promise](https://github.com/request/request-promise), and [cheerio](https://github.com/cheeriojs/cheerio).
 
 ## To Do
 - Get twitter API tokens.
